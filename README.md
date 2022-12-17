@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Alexander Bukhov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-**About me**
-<picture> <img align="right" src="https://tenor.com/ru/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796" width = 250px></picture>
+<br>
+<picture> <img align="center" src="./IXJx.gif" width = 250px></picture>
+<br>
+<h3>About me</h3>
 <br>
 
 - A computer science student
@@ -8,6 +10,10 @@
 - In the future I will definitely become a cool programmer and invent a lot of incredible things 
 
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 <p align="center">
 
 - **Languages**:
