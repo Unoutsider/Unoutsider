@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander Bukhov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-## **About me**
+**About me**
 <picture> <img align="right" src="https://tenor.com/ru/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796" width = 250px></picture>
 <br>
 
