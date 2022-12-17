@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexander Bukhov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
-<picture> <img align="center" src="./IXJx.gif" width = 250px></picture>
+<br/>
+<picture> <img align="center" src="./2qvF.gif" width = 350px></picture>
 <br>
 <h3>About me</h3>
 <br>
